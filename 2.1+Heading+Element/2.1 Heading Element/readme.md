@@ -1,0 +1,1 @@
+> The document is structured with a top-level `<h1>` tag for the book title. It contains three main chapters (`<h2>`), each with subsections (`<h3>`), and Chapter 2 also includes a diagram section (`<h4>`).
