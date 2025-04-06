@@ -1,4 +1,3 @@
----
 
 ### ✅ **Option 3: Explanation of the Structure**
 
@@ -10,7 +9,5 @@
 > - A link to a Google Maps location using the `<a>` tag to provide directions.
 > 
 > This example is a great way to learn how to combine images, lists, and links in an HTML document.
-
----
-
+> 
 Let me know if you’d like to further style this page with CSS or add more interactive elements!
